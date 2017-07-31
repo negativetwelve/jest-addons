@@ -1,3 +1,4 @@
 // Addons
-export set from 'jest-set';
-export context from 'jest-context';
+export {default as context} from 'jest-context';
+export {its, subject} from 'jest-its';
+export {default as set} from 'jest-set';

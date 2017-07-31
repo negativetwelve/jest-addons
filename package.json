@@ -32,6 +32,7 @@
   "engines": {},
   "dependencies": {
     "jest-context": "^2.1.0",
+    "jest-its": "^1.0.0",
     "jest-set": "^2.0.0"
   },
   "peerDependencies": {

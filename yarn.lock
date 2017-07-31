@@ -1599,7 +1599,7 @@ interpret@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/interpret/-/interpret-1.0.3.tgz#cbc35c62eeee73f19ab7b10a801511401afc0f90"
 
-invariant@^2.2.0:
+invariant@^2.2.0, invariant@^2.2.2:
   version "2.2.2"
   resolved "https://registry.yarnpkg.com/invariant/-/invariant-2.2.2.tgz#9e1f56ac0acdb6bf303306f338be3b204ae60360"
   dependencies:
@@ -1915,6 +1915,13 @@ jest-haste-map@^20.0.4:
     micromatch "^2.3.11"
     sane "~1.6.0"
     worker-farm "^1.3.1"
+
+jest-its@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/jest-its/-/jest-its-1.0.0.tgz#965dfbd7173fdc096ce503faf64fe4d9736d332d"
+  dependencies:
+    invariant "^2.2.2"
+    jest-set "^2.0.0"
 
 jest-jasmine2@^20.0.4:
   version "20.0.4"
