@@ -58,7 +58,7 @@
   },
   "scripts": {
     "build": "babel src --out-dir build --ignore '**/*.spec.js'",
-    "lint": "eslint .",
+    "lint": "eslint src",
     "prepublishOnly": "yarn build",
     "test": "jest"
   }
