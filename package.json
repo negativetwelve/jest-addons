@@ -1,6 +1,6 @@
 {
   "name": "jest-addons",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Declarative syntax for jest test suites.",
   "main": "./build/index.js",
   "files": [
@@ -31,7 +31,7 @@
   "homepage": "https://github.com/negativetwelve/jest-addons",
   "engines": {},
   "dependencies": {
-    "jest-context": "^2.0.0",
+    "jest-context": "^2.1.0",
     "jest-set": "^2.0.0"
   },
   "peerDependencies": {

@@ -1873,7 +1873,7 @@ jest-config@^20.0.4:
     jest-validate "^20.0.3"
     pretty-format "^20.0.3"
 
-jest-context@^2.0.0:
+jest-context@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/jest-context/-/jest-context-2.1.0.tgz#8d92b636323ce0698f801b6282029feb987c9545"
 
