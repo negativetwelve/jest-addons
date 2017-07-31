@@ -2,7 +2,7 @@
   "name": "jest-addons",
   "version": "0.1.0",
   "description": "Declarative syntax for jest test suites.",
-  "main": "./build/jest-addons.js",
+  "main": "./build/index.js",
   "files": [
     "build",
     "setup.js"
