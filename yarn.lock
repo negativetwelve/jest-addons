@@ -1873,9 +1873,9 @@ jest-config@^20.0.4:
     jest-validate "^20.0.3"
     pretty-format "^20.0.3"
 
-jest-context@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/jest-context/-/jest-context-1.2.0.tgz#8c80996eae58d5f55aaa4c49aff9b1c170cafbc1"
+jest-context@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/jest-context/-/jest-context-2.0.0.tgz#37098e22f39e4d3d66ebc4056bae56922e539085"
 
 jest-diff@^20.0.3:
   version "20.0.3"
@@ -1996,9 +1996,9 @@ jest-runtime@^20.0.4:
     strip-bom "3.0.0"
     yargs "^7.0.2"
 
-jest-set@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/jest-set/-/jest-set-1.4.0.tgz#94a26e2cefa7bd2a56a8fe939b38e2d0eaefaca4"
+jest-set@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/jest-set/-/jest-set-2.0.0.tgz#977c2120120e83086e86519c1a84c2a1c800f419"
 
 jest-snapshot@^20.0.3:
   version "20.0.3"
