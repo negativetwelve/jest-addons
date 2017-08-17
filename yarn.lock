@@ -1819,6 +1819,12 @@ istanbul-reports@^1.1.1:
   dependencies:
     handlebars "^4.0.3"
 
+jest-action@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/jest-action/-/jest-action-1.0.0.tgz#c4427ebdb9026d91db45cadcfcb0d2f7f4fc6fd9"
+  dependencies:
+    jest-set "^2.0.0"
+
 jest-changed-files@^20.0.3:
   version "20.0.3"
   resolved "https://registry.yarnpkg.com/jest-changed-files/-/jest-changed-files-20.0.3.tgz#9394d5cc65c438406149bef1bf4d52b68e03e3f8"

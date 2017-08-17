@@ -7,6 +7,7 @@
 
 Super-package of jest addons. Currently includes:
 
+* [jest-action](https://github.com/negativetwelve/jest-action)
 * [jest-context](https://github.com/negativetwelve/jest-context)
 * [jest-its](https://github.com/negativetwelve/jest-its)
 * [jest-set](https://github.com/negativetwelve/jest-set)
